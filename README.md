@@ -1,1 +1,6 @@
-# visualcode-copilot-july2025
+# Visual Code Copilot
+
+## Copilot Agents Overview
+<pre>
+-   
+</pre>
