@@ -11,7 +11,8 @@
   or blocks of code as you type
 - helps automate repetitive tasks, accelerate learning, and sparks creativity 
 - By understanding your code context, Copilot provides intelligent code completions, documentation, 
-  and even test generation, making it a valuable partner for both beginners and experienced professionals.
+  and even test generation, making it a valuable partner for both beginners 
+  and experienced professionals.
 </pre>
 
 #### What is Copilot Chat in VS Code?
